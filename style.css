@@ -1,0 +1,26 @@
+/*
+ Theme Name: Simple Theme
+ Theme URI: http://example.com/simple-theme
+ Author: Your Name
+ Author URI: http://example.com
+ Description: A simple WordPress theme boilerplate.
+ Version: 1.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: simple, boilerplate, minimal
+ Text Domain: simple-theme
+*/
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
